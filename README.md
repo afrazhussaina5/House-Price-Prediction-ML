@@ -48,7 +48,7 @@ The model explains approximately 79.16% of the variation in house prices and dem
 ## Visualizations
 
 ### Sale Price Distribution
-![Sale Price Distribution](Images/Screenshot 2026-06-09 211645.pngImages/Screenshot 2026-06-09 211645.png)
+![Sale Price Distribution](Images/Screenshot 2026-06-09 211645.png)
 
 ### Correlation Heatmap
 ![Correlation Heatmap](Images/Screenshot 2026-06-09 211739.pngImages/Screenshot 2026-06-09 211739.png)
