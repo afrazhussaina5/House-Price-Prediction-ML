@@ -44,14 +44,3 @@ Linear Regression
 ## Conclusion
 
 The model explains approximately 79.16% of the variation in house prices and demonstrates the effectiveness of machine learning for real estate price prediction.
-
-## Visualizations
-
-### Sale Price Distribution
-![Sale Price Distribution](Images/Screenshot2026-06-09211645.png)
-
-### Correlation Heatmap
-![Correlation Heatmap](Images/Screenshot2026-06-09211739.png)
-
-### Actual vs Predicted House Prices
-![Actual vs Predicted](Images/Screenshot2026-06-09211855.png)
